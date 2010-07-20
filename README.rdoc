@@ -1,6 +1,6 @@
 = dabeers
 
-Description goes here.
+This is a placeholder file. Nothing to see here.
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 macdiva. See LICENSE for details.
+Copyright (c) 2010 Chrys Wu (MacDiva on Github). See LICENSE for details.
