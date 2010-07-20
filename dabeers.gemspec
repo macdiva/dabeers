@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "dabeers.gemspec",
      "lib/dabeers.rb",
      "spec/dabeers_spec.rb",
      "spec/spec.opts",
